@@ -1,0 +1,2 @@
+----------------------------------Welcome--------------------------------
+1. There is handTracking.py file which is acting like server first open that application then run the game else it will crash.
